@@ -27,3 +27,4 @@ provider "azurerm" {
 }
 
 # simple comment
+# QA, Stage and Prod env added
